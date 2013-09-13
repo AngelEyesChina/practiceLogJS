@@ -1,0 +1,7 @@
+{"ts":1378366942042,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1378367016095,"patch":[[{"diffs":[[1,"function helloWorld() {\r\n    return \"Hello world!\";\r\n}"]],"start1":0,"start2":0,"length1":0,"length2":54}]],"length":54,"saved":false}
+{"ts":1378369523139,"patch":[[{"diffs":[[0,"lo world"],[1,"d"],[0,"!\";\r\n}"]],"start1":40,"start2":40,"length1":14,"length2":15}]],"length":55,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1378398446694,"patch":[[{"diffs":[[1,"module.exports = "],[0,"function"]],"start1":0,"start2":0,"length1":8,"length2":25}]],"length":72,"saved":false}
+{"ts":1378399678396,"patch":[[{"diffs":[[0,"dd!\";\r\n}"],[1," "]],"start1":64,"start2":64,"length1":8,"length2":9}]],"length":73,"saved":false}
+{"ts":1378399680992,"patch":[[{"diffs":[[0,"dd!\";\r\n}"],[-1," "]],"start1":64,"start2":64,"length1":9,"length2":8}]],"length":72,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1378401266228,"patch":[[{"diffs":[[0,"lo world"],[-1,"d"],[0,"!\";\r\n}"]],"start1":57,"start2":57,"length1":15,"length2":14}]],"length":71,"saved":false}

@@ -1,0 +1,6 @@
+{"ts":1378652367573,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1378653861157,"patch":[[{"diffs":[[1,"{\n    dbConnection : ''\n}\n    "]],"start1":0,"start2":0,"length1":0,"length2":30}]],"length":30,"saved":false}
+{"ts":1378653884587,"patch":[[{"diffs":[[0,"tion : '"],[1,":memory:"],[0,"'\n}\n    "]],"start1":14,"start2":14,"length1":16,"length2":24}]],"length":38,"saved":false}
+{"ts":1378653939050,"patch":[[{"diffs":[[0,"{\n    "],[1,"\""],[0,"dbConnec"]],"start1":0,"start2":0,"length1":14,"length2":15},{"diffs":[[0,"tion"],[1,"\""],[0," : "],[-1,"'"],[1,"\""],[0,":memory:"],[-1,"'"],[1,"\""],[0,"\n}\n "]],"start1":15,"start2":15,"length1":21,"length2":22}]],"length":40,"saved":false}
+{"ts":1378653954845,"patch":[[{"diffs":[[0,"ory:\"\n}\n"],[-1,"    "]],"start1":28,"start2":28,"length1":12,"length2":8}]],"length":36,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1379028622930,"patch":[[{"diffs":[[0," : \""],[1,"file:"],[0,":memory:"],[1,"?cache=shared"],[0,"\"\n}\n"]],"start1":20,"start2":20,"length1":16,"length2":34}]],"length":54,"saved":false}

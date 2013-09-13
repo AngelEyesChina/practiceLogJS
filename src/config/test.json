@@ -1,0 +1,3 @@
+{
+    "dbConnection" : "file::memory:?cache=shared"
+}

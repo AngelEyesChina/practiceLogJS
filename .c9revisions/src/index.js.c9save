@@ -1,0 +1,2 @@
+{"ts":1378400315232,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1378400372215,"patch":[[{"diffs":[[1,"module.exports = require('.helloWorld');"]],"start1":0,"start2":0,"length1":0,"length2":40}]],"length":40,"saved":false}
